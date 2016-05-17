@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Blog Post #7"
+date: 2016-05-5 09:41:18
+comments: true
+description: "Active Record Association"
+keywords: ""
+categories:
+- welcome
+tags:
+- welcome
+---
+
+Active Record is a ruby gem which processes all the information in a database. It is know as an Object Relational Mapping. Active Record is responsible for converting data in to Ruby Manageable data. Active record is a a ruby on rails technique, and rails is a web application written in Ruby. It makes web app development much simpler. Associations are methods that link objects together, using foreign keys. Active Record is responsible for managing relationships between data within your database. The best way to think about Active Records Associations is to think of it as a telephone, allowing your databases to communicate from one to the other
+When beginning to use Active Record Association the first thing you need to do is define a relationship or define an association. This allows you to establish the relationship between databases, which you are going to use to manage your data and make sure that your information goes where it needs to go. Active Record Association is largely used in web apps such as AirBnB, which uses it for multiple purposes. For example, on AirBnB, Active Record Association is used to connect the databases of the renters to the rentals, to display on the website where is available and where is occupied by a tenant. Active Record Association is basically used anytime there needs to be a relationship between databases in rails apps, which is pretty much necessary in every rails app.  Although using associations can be easy to learn, yet hard to master, their benefits largely outweighs the learning curve. However, when you finally master the process, you will learn how much easier it is to build your apps, and how much time you will be saved, using Active Record Association.
